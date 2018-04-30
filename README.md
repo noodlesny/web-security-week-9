@@ -10,7 +10,7 @@ Additionally, include a json export of the data you collected in the repo, instr
 
 ## My Honeypots:
 I deployed the Dionaea with http, p0f, and Shockpot Sinkhole honeypots. 
-At the time of submission I had a total of  attacks. Dionaea: , p0f: , and Shickpot Sinkhole: .
+At the time of submission I had a total of 210 attacks- Dionaea: 144, p0f: 66, and Shickpot Sinkhole: 0.
 
 ## Issues Encountered:
 The instructions on installation and configuration were unclear and inconsistent. I had to use a second walkthrough file alongside the codepath version. The assignment took close to 4 hours to complete. I feel with better guidance I could've done it in at least half the time.
