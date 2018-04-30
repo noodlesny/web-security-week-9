@@ -14,3 +14,6 @@ At the time of submission I had a total of  attacks. Dionaea: , p0f: , and Shick
 
 ## Issues Encountered:
 The instructions on installation and configuration were unclear and inconsistent. I had to use a second walkthrough file alongside the codepath version. The assignment took close to 4 hours to complete. I feel with better guidance I could've done it in at least half the time.
+I also had trouble downloading the json file, so I accessed it through the console and copy and pasted it into a text file.
+
+
